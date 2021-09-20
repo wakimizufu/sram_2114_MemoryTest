@@ -12,6 +12,10 @@ https://github.com/kanpapa/arduino/blob/master/HM6264TEST
 
 ・プログラムはランダムな値を未接続なanalogピンをシード値とした乱数を取得後にSRAMへ書き込み⇒1usウェイト⇒読み込み⇒1usウェイトを行い、書き込んだ値と読み込んだ値が一致すれば成功とする
 
+## 回路図
+
+![回路図](https://github.com/wakimizufu/sram_2114_MemoryTest/blob/main/4bit_SRAM_TEST_PROGRAM/4bitSramTest.png)
+
 ## 実施レポート
 
 ## 参考リンク
@@ -20,5 +24,4 @@ https://github.com/kanpapa/arduino/blob/master/HM6264TEST
 
 ## ToDo
 
-・arduinoとSRAMとの回路図を作成＆登録する
 ・(備忘の為の)実施レポートを作成する
