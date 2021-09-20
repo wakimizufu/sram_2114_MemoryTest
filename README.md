@@ -14,7 +14,9 @@ https://github.com/kanpapa/arduino/blob/master/HM6264TEST
 
 ## 回路図
 
-![回路図](https://github.com/wakimizufu/sram_2114_MemoryTest/blob/main/4bit_SRAM_TEST_PROGRAM/4bitSramTest.png)
+・uPD2114Lを接続した際は以下の通り
+
+![uPD2114L回路図](https://github.com/wakimizufu/sram_2114_MemoryTest/blob/main/4bit_SRAM_TEST_PROGRAM/4bitSramTest.png)
 
 ## 実施レポート
 
