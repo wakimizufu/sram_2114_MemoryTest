@@ -6,8 +6,11 @@
 ⇒テスト対象SRAMは NEC uPD2114L および TOSHIBA TC551001CP-85L(4kbit分だけテスト)で実施した
 
 ・プログラムは kanpapa氏が作成された arduinoによる 64kbit(8192word*8bit) SRAM の書き込み/読み込みテストプログラムを基に、アドレス長/データ長を変更した
+
 https://kanpapa.com/today/2018/08/arduino-mega-memory-check.html
+
 https://github.com/kanpapa/arduino/blob/master/HM6264TEST
+
 
 ・また今回の検証の為に[秋月電子製 arduino uno互換機 AE-ATMEGA-UNO-R3](https://akizukidenshi.com/catalog/g/gM-15574/)を使った為、ピンアサインの修正も行った
 
