@@ -24,6 +24,7 @@ https://github.com/kanpapa/arduino/blob/master/HM6264TEST
 ・具体的なテスト実施方法とシリアルデータの見方は [kanpapa氏のBlogに記載されている内容と同様の方法で行った](https://kanpapa.com/today/2018/08/arduino-mega-memory-check.html)
 
 ・uPD2114LおよびTC551001CP-85Lで実施した際、全てのアドレスで書き込み値と読み込み値が一致していることを確認した
+
 　⇒それぞれ全アドレスへのチェックを5回繰り返したが問題無いことを確認出来た
 
 ## 参考リンク
